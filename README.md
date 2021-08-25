@@ -1,4 +1,4 @@
-# Spammer para Whatszapp Web
+# Spammer para Whatsapp Web
     - Modo de Uso:
       - Com o navegador aberto em uma conversa no https://web.whatsapp.com/ aperte a tecla F12
       - Copie e cole o script no console
